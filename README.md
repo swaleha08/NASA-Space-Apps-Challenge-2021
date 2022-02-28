@@ -3,8 +3,8 @@
 
 # 1. Main poster
 
-<img src="/IMG_0896.jpg" width="1600" height="1300">
+<img src="/IMG_0896.jpg" width="1000" height="800">
 
 # 2. 
 
-<img src="/IMG_0898.jpeg" width="1600" height="1300">
+<img src="/IMG_0898.jpeg" width="1000" height="800">
