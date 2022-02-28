@@ -16,4 +16,4 @@
 
 # 4 
 
-<img src="/space apps stciker 1.png" width="420" height="594">
+<img src="/space apps stciker 1.png" width="500" height="500">
