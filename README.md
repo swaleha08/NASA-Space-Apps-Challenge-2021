@@ -7,4 +7,4 @@
 
 # 2. 
 
-<img src="/IMG_0898.jpg" width="1600" height="1300">
+<img src="/IMG_0898.jpeg" width="1600" height="1300">
