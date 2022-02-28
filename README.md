@@ -20,8 +20,8 @@
 
 # 5
 
-<img src="/IMG_0995.jpg" width="500" height="500">
+<img src="/IMG_0995.jpg" width="600" height="500">
 
 # 6
 
-<img src="/IMG_0996.jpg" width="500" height="500">
+<img src="/IMG_0996.jpg" width="400" height="400">
