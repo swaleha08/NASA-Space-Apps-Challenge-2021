@@ -20,7 +20,7 @@
 
 # 5
 
-<img src="/IMG_0995.jpg" width="600" height="500">
+<img src="/IMG_0995.jpg" width="700" height="450">
 
 # 6
 
