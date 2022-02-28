@@ -10,18 +10,19 @@
 <img src="/IMG_0898.jpeg" width="420" height="594">
 
 
-# 3
+# 3 Poster for Participants
 
 <img src="/IMG_0897.jpg" width="420" height="594">
 
-# 4 
+# 4 Sticker 1 
 
 <img src="/space apps stciker 1.png" width="500" height="500">
 
-# 5
+# 5 Stciker 2
+
+<img src="/IMG_0996.jpg" width="400" height="400">
+
+# Thank you postcard
 
 <img src="/IMG_0995.jpg" width="700" height="450">
 
-# 6
-
-<img src="/IMG_0996.jpg" width="400" height="400">
