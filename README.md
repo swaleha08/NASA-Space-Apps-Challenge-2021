@@ -1,10 +1,13 @@
 # NASA-Space-Apps-Challenge-2021
 
 
-# 1. Main poster
+# 1. Main poster 1
 
-<img src="/IMG_0896.jpg" width="1000" height="800">
+<img src="/IMG_0896.jpg" width="840" height="1188">
 
-# 2. 
+# 2. Main poster 2
 
-<img src="/IMG_0898.jpeg" width="1000" height="800">
+<img src="/IMG_0898.jpeg" width="840" height="1188">
+
+
+# 3
